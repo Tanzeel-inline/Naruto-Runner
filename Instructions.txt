@@ -1,0 +1,20 @@
+                                    SCORE
+
+                 DODGE THE HURDLES TO SURVIVE AND GAIN SCORE                                  
+
+				  MOVEMENT
+
+                  USE ARROW KEYS TO MOVE UP DOWN LEFT RIGHT
+
+
+                                    LIVES
+
+                       DECREASES WHEN YOU HIT A HURDLE
+                      INCREASES WHEN YOU PICKUP A HEART
+                     GAME ENDS WHEN YOU RUN OUT OF LIVES
+
+				  MAIN MENU
+			PRESS ESC TO GO BACK TO MAIN MENU
+
+				 NON-RESUMABLE
+			WARNING!GAME IS NOT RESUMABLE
